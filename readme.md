@@ -7,6 +7,7 @@ Small holder for the [NanoESP32-S2](https://github.com/wuxx/nanoESP32-S2) that a
 Same model as V2 with more bigger holes, more vertical space and a bottom to close the insides.
 
 [STL File](V3/Base_FixIt101.stl) *(Has some broken surfaces that mess up Prusaslicer badly)*<br>
+[STL File](V3/Base_Raw.stl) *(Same as above, before using [FixIt 101](http://sketchucation.com/forums/viewtopic.php?f=323&t=58745))*<br>
 [Sketchup File](V3/Base_FixIt101.skp) *(Requires Sketchup 2022 or newer)*<br>
 [Sketchup File](V3/Base_Raw.skp) *(Same as above, before using [FixIt 101](http://sketchucation.com/forums/viewtopic.php?f=323&t=58745))*<br>
 
